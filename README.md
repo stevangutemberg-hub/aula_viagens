@@ -1,16 +1,12 @@
 # aula_viagens
-# 🌍 ExploreMundo - Site de Viagens
+# 🌍 ExploreMundo - Plataforma de Viagens
 
-## 📌 Sobre o Projeto
+## 📌 A respeito do Projeto
 
-O **ExploreMundo** é um site de viagens desenvolvido com HTML e CSS.
-O objetivo do projeto é apresentar destinos turísticos, informações sobre viagens e permitir que o usuário explore diferentes lugares pelo mundo.
+O **ExploreMundo** é uma plataforma de viagens criada utilizando HTML e CSS.
+O intuito deste projeto é apresentar destinos turísticos, informações sobre viagens e possibilitar ao usuário explorar diversos lugares ao redor do mundo.O site foi desenvolvido como atividade acadêmica para praticar conceitos de **desenvolvimento web básico**, estruturação de páginas e estilização com CSS.---
 
-O site foi desenvolvido como atividade acadêmica para praticar conceitos de **desenvolvimento web básico**, estruturação de páginas e estilização com CSS.
-
----
-
-## 🧰 Tecnologias Utilizadas
+## 🧰 Tecnologias Empregadas
 
 * HTML5
 * CSS3
@@ -19,15 +15,15 @@ O site foi desenvolvido como atividade acadêmica para praticar conceitos de **d
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Organização do Projeto
 
 ```
 exploremundo
 
-index.html        → Página principal do site
-destinos.html     → Página com mais destinos turísticos
-sobre.html        → Página com informações sobre o site
-style.css         → Arquivo de estilos da página
+index.html        → A página inicial do site
+destinos.html     → A página com mais opções de destinos turísticos
+sobre.html        → A página com informações sobre o site
+style.css         → O arquivo de estilos da página
 
 imagens/
 imagem1.jpg
@@ -38,38 +34,38 @@ imagem3.jpg
 
 ---
 
-## 🧭 Funcionalidades
+## 🧭 Recursos
 
-* Página inicial com banner e apresentação do site
-* Seção de destinos turísticos
-* Página com mais destinos
+* Página inicial com banner e introdução do site
+* Seção dedicada a destinos turísticos
+* Página com opções adicionais de destinos
 * Página com informações sobre o projeto
-* Menu de navegação entre páginas
+* Menu de navegação entre as páginas
 * Seção "Sobre Nós"
-* Layout estilizado com CSS
+* Layout estilizado através do CSS
 
 ---
 
-## 📸 Imagens
+## 📸 Fotografias
 
-As imagens utilizadas no projeto representam destinos turísticos e foram adicionadas apenas para fins de apresentação visual.
+As imagens utilizadas neste projeto representam destinos turísticos e foram incluídas apenas para fins de ilustração visual.
 
 ---
 
-## 🎓 Objetivo Acadêmico
+## 🎓 Propósito Acadêmico
 
-Este projeto foi desenvolvido com o objetivo de aplicar conhecimentos de:
+Este projeto foi criado com a intenção de aplicar conhecimentos sobre:
 
-* Estrutura de páginas com HTML
+* Estruturação de páginas utilizando HTML
 * Estilização com CSS
-* Navegação entre páginas
-* Organização de arquivos de um site
+* Navegação entre as páginas
+* Organização dos arquivos de um site
 
 ---
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por:
+Este projeto foi realizado por:
 
 **Stevan Gutemberg**
 
